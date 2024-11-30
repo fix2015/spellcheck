@@ -1,0 +1,11 @@
+{
+  "name": "spellcheck",
+  "version": "1.0.0",
+  "description": "A simple example demonstrating the HTML spellcheck='true' attribute for automatic spelling and grammar checks in text fields.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitalii Semianchuk",
+  "license": "ISC"
+}
